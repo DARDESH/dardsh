@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>login</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A900"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C900"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abel%3A400"/>
+  <link rel="stylesheet" href="./styles/login.css"/>
+
+  <script>
+    function displayInput() {
+     
+      var phoneOrEmailInput = document.querySelector('.group-4-CcR input');
+      var passwordInput = document.querySelector('.group-5-777 input');
+     
+      
+      
+      console.log('Phone/Email:', phoneOrEmailInput.value);
+      console.log('Password:', passwordInput.value);
+      
+    }
+  </script>
+
+</head>
+
+
+<body>
+<div class="login-hgM">
+  <div class="auto-group-myld-EJu">
+    <img class="blue-icon-bz1" src="./assets/blue-icon.png"/>
+  </div>
+  <div class="group-9-sgd">
+    <p class="log-in-to-dardsh-o4V">Log in to Dardsh</p>
+    <input type="text" class="group-4-CcR" placeholder="Phone number or email address">
+    <input type="password" class="group-5-777" placeholder="Password">
+    <button class="group-8-1bo" onclick="displayInput()">Log In</button>
+    <button class ="sign-up-dNH" onclick="displayInput()">Sign up</button>
+  </div>
+</div>
+</body>

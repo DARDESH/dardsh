@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>sign up</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abel%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="./styles/sign-up.css"/>
+
+  <script>
+    function displayInput() {
+      // استهداف العناصر التي تحتوي على البيانات المُدخَلة
+      var nameInput = document.querySelector('.group-4-yry input');
+      var phoneOrEmailInput = document.querySelector('.group-3-MMj input');
+      var passwordInput = document.querySelector('.group-9-Khs input');
+     
+      
+      // طباعة البيانات المُدخَلة في الحقول
+      console.log('Name:', nameInput.value);
+      console.log('Phone/Email:', phoneOrEmailInput.value);
+      console.log('Password:', passwordInput.value);
+      
+    }
+  </script>
+
+</head>
+<body>
+<div class="sign-up-z25">
+  <div class="auto-group-jqcd-j85">
+    <img class="blue-icon-oXF" src="./assets/blue-icon.png"/>
+  </div>
+  
+ <input type="text" class="group-4-yry" placeholder="Name">
+ <input type="text" class="group-3-MMj" placeholder="Phone number or email address">
+ <input type="password" class="group-9-Khs" placeholder="Password">
+ 
+ <button class="group-8-4zD" onclick="displayInput()">Next</button>
+</div>
+</body>

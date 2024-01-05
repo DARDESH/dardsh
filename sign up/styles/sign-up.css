@@ -1,0 +1,103 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 75rem;
+}
+.sign-up-z25 {
+  box-sizing: border-box;
+  padding: 2.7rem 4rem 13.4rem 2.2rem;
+  width: 205%;
+  display: flex;
+  flex-direction: column;
+  background-color: #17202a;
+  
+}
+.sign-up-z25 .auto-group-jqcd-j85 {
+  margin: 0rem 30.5rem 20rem 65rem;
+  width: calc(100% - 59.1rem);
+  flex-shrink: 0;
+}
+.sign-up-z25 .auto-group-jqcd-j85 .blue-icon-oXF {
+  width: 9.7rem;
+  height: 7.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  position: fixed;
+}
+.sign-up-z25 .group-4-yry {
+  margin: 0rem 0rem 5rem 1.8rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2rem 1.8rem 2rem;
+  width: 143rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.sign-up-z25 .group-3-MMj {
+  margin: 0rem 0rem 5rem 1.8rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2rem 1.8rem 2rem;
+  width: 143rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.sign-up-z25 .group-9-Khs {
+  margin: 0rem 0rem 5rem 1.8rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2rem 1.8rem 2rem;
+  width: 143rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.sign-up-z25 .group-8-4zD {
+  margin: 0rem 1.2rem 0rem 0.6rem;
+  width: calc(100% - 1.8rem);
+  height: 6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #941df2;
+  border-radius: 7.6rem;
+  flex-shrink: 0;
+}

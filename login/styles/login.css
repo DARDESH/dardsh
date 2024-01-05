@@ -1,0 +1,135 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}
+.login-hgM {
+  box-sizing: border-box;
+  padding: 1% 5% 1% 1%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #17202a;
+}
+.login-hgM .auto-group-myld-EJu {
+  margin: 0rem 0rem 1.822rem 2.5rem;
+  width: 9.7rem;
+  height: 9.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-hgM .auto-group-myld-EJu .x-CBB {
+  width: 4.9rem;
+  height: 9.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-hgM .auto-group-myld-EJu .blue-icon-bz1 {
+  width: 9.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-hgM .group-9-sgd {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-hgM .group-9-sgd .log-in-to-dardsh-o4V {
+  margin: 0rem 84.325rem 5.732rem 0rem;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-hgM .group-9-sgd .group-4-CcR {
+  margin-bottom: 3.1565rem;
+  box-sizing: border-box;
+  padding: 2.904rem 5.231rem 2.834rem 5.231rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #000000;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-hgM .group-9-sgd .group-5-777 {
+  margin-bottom: 3.1565rem;
+  box-sizing: border-box;
+  padding: 2.904rem 5.231rem 2.834rem 5.231rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  list-style: none;
+  color: #000000;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-hgM .group-9-sgd .group-8-1bo {
+  margin-bottom: 12rem;
+  width: 100%;
+  height: 7.5756rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #941df2;
+  border-radius: 7.6rem;
+  flex-shrink: 0;
+}
+.login-hgM .group-9-sgd .sign-up-dNH {
+  text-align: right;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-dNH{
+  margin: 0cm;
+  background: fixed;
+}
